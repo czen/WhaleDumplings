@@ -1,3 +1,4 @@
+# LLVM 3.9 for ops and QT5 with othe accessories
 
 FROM prodromou87/llvm:3.9
 RUN sudo apt-get update && \
